@@ -1,0 +1,1 @@
+# colorrc.conf
